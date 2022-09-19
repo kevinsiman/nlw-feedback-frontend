@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply dark:bg-background dark:text-zinc-100 bg-zinc-100 text-zinc-600;
+}
